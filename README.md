@@ -1,2 +1,2 @@
-# NivasNow-website-miniproject
-Nivasnow is a web-based hotel booking management system that allows users to search hotels, view room details, and make online bookings while helping admins manage reservations efficiently.
+# Hotel-booking-managment
+This website is written in .html and it is of hotel booking managment system
