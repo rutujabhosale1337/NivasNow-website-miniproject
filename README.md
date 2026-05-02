@@ -119,16 +119,16 @@ The project follows an *iterative development approach*:
 * Booking Receipt Page
 
 ## Result
-# First view of web
+## First view of web
 <img width="947" height="500" alt="image" src="https://github.com/user-attachments/assets/641555de-169a-4f55-82ab-f72e794e6ba6" />
 
-# Tabs
+## Tabs
 <img width="939" height="110" alt="image" src="https://github.com/user-attachments/assets/192b7f46-42a3-4770-b30a-d0b5cc2c7d7e" />
-# Gallery
+##  Gallery
 <img width="940" height="305" alt="image" src="https://github.com/user-attachments/assets/527fb588-638e-48a1-b184-6728bd887b25" />
-# Reviews
+##  Reviews
 <img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/b21b3bed-4c50-47dd-9bd8-1cf637d7e618" />
-#Sample reservation button
+## Booking and contact process
 <img width="939" height="518" alt="image" src="https://github.com/user-attachments/assets/15405dfc-d234-4bec-bb55-c8000919fe74" />
 <img width="939" height="518" alt="image" src="https://github.com/user-attachments/assets/a495639e-0c86-4cda-a4fd-aebb1cb7cb6a" />
 <img width="990" height="477" alt="image" src="https://github.com/user-attachments/assets/306bafe2-ffba-497f-80a6-b1afd6d9ff0b" />
