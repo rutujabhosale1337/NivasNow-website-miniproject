@@ -1,4 +1,4 @@
-ivasNow – Hotel Booking Web Application
+NivasNow – Hotel Booking Web Application
 
 ##  Project Overview
 
